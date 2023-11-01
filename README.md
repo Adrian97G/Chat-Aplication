@@ -18,6 +18,6 @@
 - Aqui podras ver la aplicacion en linea
 - Link: 
 
-![Image - App](/src/assets/Captura 1)
+![Image - App](Captura 1)
 
 
