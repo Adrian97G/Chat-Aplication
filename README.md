@@ -18,7 +18,6 @@
 - Aqui podras ver la aplicacion en linea
 - Link: 
 
-![Imagen Proyecto 1](Captura 1.png)
+![Image - App](/src/assets/Captura 1)
 
-![Imagen Proyecto 2](Captura 2.png)
 
