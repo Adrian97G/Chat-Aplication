@@ -14,8 +14,8 @@
 	const emits = defineEmits(['search'])
 	const keyword = ref('')
 	const setKeyword = () => {
-	  state.setCurrentKeyword(keyword.value)
-	  emits('search')
+	state.setCurrentKeyword(keyword.value)
+	emits('search')
 	}
 
 </script>

@@ -37,8 +37,8 @@
 	const contacts = ref(useContacts().contacts)
 	
 	const searchAction = () => {
-	  const currentKeyword = computed(() => useContacts().currentKeyword)
-	  contacts.value = useContacts().contacts.filter(contact => contact.name.toLowerCase().includes(currentKeyword.value.toLowerCase()))
+	const currentKeyword = computed(() => useContacts().currentKeyword)
+	contacts.value = useContacts().contacts.filter(contact => contact.name.toLowerCase().includes(currentKeyword.value.toLowerCase()))
 	}
 
 </script>

@@ -1,66 +1,24 @@
-<h1 align="center">Chat App</h1>
-<H2 align="center">Project UI / UX Design</H2>
+# Chat App 🚀
 
-<!-- Garis Lurus -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<!-- End -->
+🎉 ¡Bienvenido a Chat App, Un modelo de app de chats en el cual se puede evidenciar un ejemplo de comunicacion por medio de una aplicacion web.
 
-<img src="./src/assets/banner.png" />
-<br>
+## Características 🌟
 
+- **Chat en tiempo real**: Mensajes instantáneos para que nunca te pierdas nada.
+- **Contactos**: Puedes observar y comunicarte con personas de tu interés.
 
-<!-- Garis Lurus -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<!-- End -->
+## Tecnologías Utilizadas 💻
 
-## About
-> This is my projects to make UI using front end tech like HTML, CSS, Javascript, React, React Native, and more.
+- Vue.js
+- Tailwind
+- vite
 
+## Netlify
 
+- Aqui podras ver la aplicacion en linea
+- Link: 
 
-## Responsive Test
-<br>
-<img src="./src/assets/responsive-banner.png" />
+![Imagen Proyecto 1](Captura 1.png)
 
-<br>
+![Imagen Proyecto 2](Captura 2.png)
 
-## Languages and Tools
-<br>
-
-- Vue JS 3
-- Tailwindcss
-- Pinia state management
-- Vue router
-- Font Awesome 5
-- Google Fonts Poppins
-- Vite JS
-- Git 
-- Github
-- Vercell
-- Termux
-- Micro Text Editor
-
-### How to install
-<br>
-
-- <code>git clone ↆↆ </code>
-  
-  ```bash
-  git clone https://github.com/bagussatoto/chat-application.git 
-  ``` 
-  
-- <code>cd chat-app</code>
-- <code>npm install</code>
-- <code>npm run dev</code>
-
-### Demo 
-- 🚫  [Chat Application](https://chat-app-1-one.vercel.app/)
-
-### Thanks You Support
-- Support me with a cup of coffee and other snacks here → [Saweria.co](https://saweria.co/bagussatoto1)
-- Don't forget to give me star in this repository 🙏🏻🙏🏻
-- See my other instagram [@bagus_satoto1](http://www.instagram.com/bagus_satoto1)
-
-> 🧑🏽‍💻 | [BAGUS BUDI SATOTO ](http://github.com/bagussatoto)
-<br>
- 

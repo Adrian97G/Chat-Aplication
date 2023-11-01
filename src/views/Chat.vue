@@ -57,8 +57,8 @@
 	const scrollToBottom = () => {
 		let el = container.value
 		el.scrollIntoView(false, {
-		  behavior: 'smooth',
-		  block: 'end'
+		behavior: 'smooth',
+		block: 'end'
 		})
 	}
 	
