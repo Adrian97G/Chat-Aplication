@@ -18,6 +18,6 @@
 - Aqui podras ver la aplicacion en linea
 - Link: 
 
-![Image - App](assets/Captura%201.PNG)
+![Image - App](assets/Captura1.PNG)
 
 
