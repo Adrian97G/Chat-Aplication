@@ -18,6 +18,7 @@
 - Aqui podras ver la aplicacion en linea
 - Link: 
 
-![Image - App](assets/Captura1.PNG)
+![Image - App](https://github.com/Adrian97G/Chat-Aplication/blob/main/Captura1.PNG)
+![Image - App1](https://github.com/Adrian97G/Chat-Aplication/blob/main/Captura2.PNG)
 
 
