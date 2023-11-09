@@ -1,24 +1,26 @@
-# Chat App 🚀
+## :rocket: Chat App
 
-🎉 ¡Bienvenido a Chat App, Un modelo de app de chats en el cual se puede evidenciar un ejemplo de comunicacion por medio de una aplicacion web.
+## :page_with_curl: Description
 
-## Características 🌟
+🎉 Welcome to Chat App, A chat app model in which an example of communication can be demonstrated through a web application.
 
-- **Chat en tiempo real**: Mensajes instantáneos para que nunca te pierdas nada.
-- **Contactos**: Puedes observar y comunicarte con personas de tu interés.
+## :dart: Features
 
-## Tecnologías Utilizadas 💻
+- **Real-time chat**: Instant messages so you never miss anything.
+- **Contacts**: You can observe and communicate with people of interest to you.
 
-- Vue.js
-- Tailwind
-- vite
+## :hammer_and_wrench: Technologies Used
 
-## Netlify
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML5
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js
 
-- Aqui podras ver la aplicacion en linea
-- Link: 
+## :camera_flash: Project Image
 
-![Image - App](https://github.com/Adrian97G/Chat-Aplication/blob/main/Captura1.PNG)
 ![Image - App1](https://github.com/Adrian97G/Chat-Aplication/blob/main/Captura2.PNG)
 
+## :link: Link to see the project in action
 
+[Here you can visit my website](https://chats-vue-adrian-dev.netlify.app/)
+
+## :wave: Greetings!!
